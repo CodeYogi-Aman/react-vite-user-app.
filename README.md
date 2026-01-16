@@ -22,7 +22,7 @@ This project marks my first hands-on experience building a React app using Vite.
 ![React Greeting Page](https://github.com/CodeYogi-Aman/react-vite-user-app./blob/main/Screenshot%202026-01-16%20130505.png)
 
 ### User Management Page
-![User Management Page](link-to-second-screenshot)
+![User Management Page](https://github.com/CodeYogi-Aman/react-vite-user-app./blob/main/Screenshot%202026-01-16%20130620.png)
 
 ## 🧠 What I Learned
 - Setting up Vite with React
